@@ -1,7 +1,7 @@
 'use client';
 
 import { Canvas} from "@react-three/fiber";
-import Three from "./index.jsx"; 
+import Three from "./Index.jsx"; 
   import Ring  from "./Ring.jsx";
   import Cone from "./Cone.jsx";
   import Sphere from "./Sphere.jsx";

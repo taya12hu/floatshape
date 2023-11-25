@@ -50,7 +50,6 @@ export default  function Three() {
         <>
        <PerspectiveCamera makeDefault position={[20, 0, -8]} />
         <OrbitControls /> 
-      
        <ambientLight intensity={2}/>
      </>
     )
